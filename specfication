@@ -1,0 +1,14 @@
+Version: SD/MMC Development Tool (M-Factors) (V3.85)
+Function: Read Card Info
+Current Tester Info: V3.57 H(3G)(P05)
+---------------- Tester Device Information ----------------
+[Tester Version] : V3.57
+[Tester ID] : 0xFF77DC
+[Tester VID] : 0xFF
+[Tester Feature Set] : 0x69
+---------------- Memory Card Information ----------------
+[Card_Type] : SD 3.0 High Voltage(UHS104)(U3)
+[Card Capacity] : 61216.00 MB (62685184.00 KB)
+[Card Protect Capacity] : 128.00 MB
+[Class] : Class 10
+[Embedded System Card] : No
